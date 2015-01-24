@@ -1,0 +1,3 @@
+
+PhotometricStereo
+PhotometricStereo.jar,core.jar,mtj.jar,blas.jar,arpack_combined_all.jar,netlib-java-0.9.1.jar,arpack_combo-0.1.jar,mtj.jar,blas.jar,arpack_combined_all.jar,netlib-java-0.9.1.jar,arpack_combo-0.1.jar,ini4j.jar
